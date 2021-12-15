@@ -1,6 +1,6 @@
 # Twitter-COVID-19-Analysis
 
-The analysis is a final project for a data course.
+This is a final project for a data course.
 
 The analysis is performed on 15,018,765 tweets related to COVID-19 from 29-days interval from 2021/10/15 to 2021/11/12. 
 Majority of tweets are from the United States and United Kingdom. 
